@@ -1,0 +1,5 @@
+body { background: #f8f9fa; }
+.game-card { max-width: 500px; margin: 50px auto; }
+.btn-choice { width: 120px; height: 120px; font-size: 20px; }
+.result { font-size: 1.3rem; font-weight: bold; margin-top: 15px;}
+.mt-3{color: blue; font-family: 'Times New Roman', Times, serif; font-weight: bold; }
